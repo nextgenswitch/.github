@@ -1,70 +1,75 @@
 # NextGenSwitch
 
-NextGenSwitch is an API-driven voice infrastructure platform for building modern telephony products.
+[![NextGenSwitch logo](https://nextgenswitch.com/assets/img/brand/nextgenswitch-logo.png)](https://nextgenswitch.com/)
 
-It combines:
+**NextGenSwitch is a programmable omnichannel communications platform for AI call center software, cloud PBX operations, AI message automation, voice and chat API workflows, contact center teams, and campaign automation.**
 
-- SIP SoftSwitch
-- Multi-tenant PBX
-- Contact Center / CCaaS
-- Call campaigns and broadcasting
-- Voice APIs
-- AI voice agents and automation
+This repository is the public information and installation entry point for NextGenSwitch. The previous application source is preserved on the [`archive/source-code-2026-07-18`](../../tree/archive/source-code-2026-07-18) branch for historical reference.
 
-## What you’ll find here
+## Platform Overview
 
-### Core platform
-The main NextGenSwitch platform for programmable communications, routing, PBX, and contact center workflows.
+NextGenSwitch helps businesses, BPOs, telecom providers, SaaS teams, and service providers operate voice and messaging workflows from one platform.
 
-### SDKs
-Official and community libraries for integrating with the platform.
+| Capability | What it supports |
+| --- | --- |
+| Virtual PBX | Extensions, call routing, queues, ring groups, recordings, and multi-tenant operation |
+| Contact center | Inbound and outbound workflows, agent tools, analytics, and operational controls |
+| AI IVR and voice bots | Intent-based conversations using external LLM, speech-to-text, and text-to-speech providers |
+| Campaigns and surveys | Broadcast calls, automated outbound engagement, feedback collection, pacing, and retry workflows |
+| AI message automation | Automated SMS, WhatsApp, and Facebook Messenger workflows with live-agent handoff |
+| Programmable Voice API | XML voice verbs, API-driven call control, WebSocket streaming, speech, and DTMF input |
+| White-label deployments | Multi-tenant communications services for providers and platform operators |
 
-### AI Agents
-Reference implementations for AI receptionist, voice automation, and real-time conversational workflows.
+## Products
 
-### Examples
-Small demos showing how to connect apps, APIs, and voice agents with NextGenSwitch.
+- [Virtual PBX and Call Center](https://nextgenswitch.com/virtual-pbx/)
+- [AI-driven IVR](https://nextgenswitch.com/ai-ivr/)
+- [Call Campaign, Broadcast and Survey](https://nextgenswitch.com/call-campaign-broadcast-and-survey/)
+- [Virtual Voice AI Assistant](https://nextgenswitch.com/virtual-voice-ai-assistant/)
+- [AI Messaging Automation](https://nextgenswitch.com/ai-message-automation/)
+- [White-Label Multi-Tenant Contact Center](https://nextgenswitch.com/white-label-multi-tenant-contact-center/)
 
-## Quick links
+## Solutions
 
-- Website: https://nextgenswitch.com/
-- Main platform repo: https://github.com/nextgenswitch/nextgenswitch
-- PHP SDK: https://github.com/nextgenswitch/nextgenswitch-php
-- AI agents: https://github.com/nextgenswitch/ai_agents
-- Docs: https://nextgenswitch.com/docs/
+- [Automated Voice Calling](https://nextgenswitch.com/automated-voice-calling/)
+- [Contact Center](https://nextgenswitch.com/contact-center/)
+- [AI Voice Agents](https://nextgenswitch.com/ai-voice-agents/)
+- [Programmable Voice API Integration](https://nextgenswitch.com/programmable-voice-api-integration/)
+- [Custom Voice Applications](https://nextgenswitch.com/custom-voice-application/)
 
-## Who this is for
+## Installation
 
-NextGenSwitch is built for:
+Choose a supported deployment route, review infrastructure requirements, and validate the platform in a non-production environment before rollout.
 
-- telecom providers
-- SaaS builders
-- PBX and call center operators
-- developers building programmable voice applications
-- teams integrating AI voice agents into telephony systems
+- Read [INSTALLATION.md](INSTALLATION.md)
+- Follow the [official installation documentation](https://nextgenswitch.com/docs/installation/)
+- [Deploy from the DigitalOcean Marketplace](https://marketplace.digitalocean.com/apps/nextgenswitch)
+- [Apply for a free pilot instance](https://nextgenswitch.com/apply-for-free/)
+- [Contact NextGenSwitch](https://nextgenswitch.com/contact/) for assisted, on-premises, cloud, or provider deployments
 
-## Featured repositories
+## Documentation and Evaluation
 
-### `nextgenswitch`
-Core communications platform with SIP softswitch, PBX, campaign, and contact center capabilities.
+- [Documentation](https://nextgenswitch.com/docs/)
+- [Programmable Voice API documentation](https://nextgenswitch.com/docs/programmable-voice-api/)
+- [Features](https://nextgenswitch.com/features/)
+- [Use cases](https://nextgenswitch.com/use-cases/)
+- [Plans and pricing](https://nextgenswitch.com/plans-and-pricing/)
+- [Live demo](https://nextgenswitch.com/live-demo/)
+- [Blog](https://nextgenswitch.com/blog/)
 
-### `nextgenswitch-php`
-PHP client library for integrating with NextGenSwitch APIs.
+## Deployment Responsibility
 
-### `ai_agents`
-Examples and implementations for AI-powered voice workflows and receptionist-style agents.
+Production results depend on the selected infrastructure, SIP carrier, PSTN connectivity, network design, capacity planning, security controls, monitoring, backups, and third-party AI providers. Confirm requirements and failure behavior before carrying customer traffic.
 
-## Get started
+Do not publish SIP credentials, API keys, phone lists, call recordings, customer data, or other sensitive information in GitHub issues.
 
-If you're new here, start with:
+## Support
 
-1. Read the main platform README
-2. Review installation or Docker setup
-3. Explore the docs
-4. Try an SDK or example app
+- Website: [nextgenswitch.com](https://nextgenswitch.com/)
+- Contact: [nextgenswitch.com/contact](https://nextgenswitch.com/contact/)
+- Email: [contact@nextgenswitch.com](mailto:contact@nextgenswitch.com)
+- Company: Infosoftbd Solutions, Bangladesh
 
-## Community
+## Historical Source
 
-We welcome feedback, bug reports, feature ideas, and integration examples.
-
-Please check the contributing and security guides before opening issues or pull requests.
+The former repository contents are available on [`archive/source-code-2026-07-18`](../../tree/archive/source-code-2026-07-18). That branch is retained as an old snapshot and is not the current installation channel.
