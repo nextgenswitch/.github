@@ -73,13 +73,24 @@ Production results depend on the selected infrastructure, SIP carrier, PSTN conn
 
 Do not publish SIP credentials, API keys, phone lists, call recordings, customer data, or other sensitive information in GitHub issues.
 
+## Professional Services
+
+Need help deploying, configuring, integrating, or customizing NextGenSwitch? Professional services are available for:
+
+- Call center and Virtual PBX deployment
+- SIP trunk, routing, IVR, queue, and campaign configuration
+- AI voice agents and messaging automation
+- CRM, e-commerce, API, and custom workflow integration
+- Troubleshooting, migration, training, and ongoing technical support
+
+[**Hire NextGenSwitch professional support on Fiverr →**](https://www.fiverr.com/s/gDAVeyY)
+
+> Professional services are scoped separately from the open-source SDKs, infrastructure, SIP/PSTN services, phone numbers, and third-party AI-provider charges.
+
 ## Support
 
 - Website: [nextgenswitch.com](https://nextgenswitch.com/)
 - Contact: [nextgenswitch.com/contact](https://nextgenswitch.com/contact-us/)
+- Professional support: [Hire us on Fiverr](https://www.fiverr.com/s/gDAVeyY)
 - Email: [contact@nextgenswitch.com](mailto:contact@nextgenswitch.com)
 - Company: Infosoftbd Solutions, Bangladesh
-
-## Historical Source
-
-The former repository contents are available on [`archive/source-code-2026-07-18`](../../tree/archive/source-code-2026-07-18). That branch is retained as an old snapshot and is not the current installation channel.
