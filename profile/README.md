@@ -94,7 +94,3 @@ Need help deploying, configuring, integrating, or customizing NextGenSwitch? Pro
 - Professional support: [Hire us on Fiverr](https://www.fiverr.com/s/gDAVeyY)
 - Email: [contact@nextgenswitch.com](mailto:contact@nextgenswitch.com)
 - Company: Infosoftbd Solutions, Bangladesh
-
-## Historical Source
-
-The former repository contents are available on [`archive/source-code-2026-07-18`](../../tree/archive/source-code-2026-07-18). That branch is retained as an old snapshot and is not the current installation channel.
